@@ -3,4 +3,6 @@ Here are some of the Praat scripts from my own collection. I will be updating th
 
 ## Opening and Saving Files
 open_all.praat: its main purpose is to open all objects in Objects' window.
-save_raw: saves all sound files in object's window as  
+save_raw: saves all sound files in object's window as raw 16-bit little-endian files.
+save_all: saves all objects in the object window.
+
