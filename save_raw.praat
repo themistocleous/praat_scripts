@@ -1,5 +1,4 @@
 # This script will save all the files in objects window in a given folder.
-# This script is distributed undr the GNU General Public License.
 # Charalambos Themistocleous, 2017
 # Date Created: Sat, 10 Dec. 2017
 

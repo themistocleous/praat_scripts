@@ -1,4 +1,7 @@
 # This script will open all the files in a given folder.
+# Charalambos Themistocleous, 2017
+# Date Created: Sat, 10 Dec. 2017
+
 
 form Open all files in directory
   sentence Directory /Users/charalambosthemistocleous/Desktop/

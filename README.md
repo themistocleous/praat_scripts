@@ -8,3 +8,7 @@ Here are some of the Praat scripts from my own collection. I will be updating th
 
 [save_all](save_all.praat): saves all objects in the object window.
 
+## View and Edit Files
+[view_edit_all](view_edit_all.praat): This script opens all wav files in the Praat Objects' window. If you want to open the files with their associated TextGrid, I have found [this script](check2.praat) created by [Pauline Welby](http://aune.lpl.univ-aix.fr/~welby/PAGES/praat-fr.html) extremely useful.
+
+
